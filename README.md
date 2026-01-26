@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Vedantjais04/Leetcode/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/Vedantjais04/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vedantjais04/Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Vedantjais04/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vedantjais04/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Vedantjais04/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
