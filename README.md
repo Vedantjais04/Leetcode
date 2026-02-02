@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Vedantjais04/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Vedantjais04/Leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vedantjais04/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Divide and Conquer
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Vedantjais04/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Vedantjais04/Leetcode/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vedantjais04/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Backtracking
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Vedantjais04/Leetcode/tree/master/0257-binary-tree-paths) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Vedantjais04/Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
