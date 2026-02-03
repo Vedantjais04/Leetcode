@@ -1,6 +1,6 @@
 class Solution {
   public int majorityElement(int[] nums) {
-    Integer ans = null;
+    int ans = 0;
     int count = 0;
     for (final int num : nums) {
       if (count == 0)
