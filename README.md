@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vedantjais04/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Vedantjais04/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Vedantjais04/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0342-power-of-four](https://github.com/Vedantjais04/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vedantjais04/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Divide and Conquer
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Vedantjais04/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Vedantjais04/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Vedantjais04/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vedantjais04/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Backtracking
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Vedantjais04/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Vedantjais04/Leetcode/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |
