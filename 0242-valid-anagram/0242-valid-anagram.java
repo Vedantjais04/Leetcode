@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
 
     public boolean isAnagram(String s, String t) {
@@ -7,19 +9,26 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
-            if (!mp.containsKey(ch)) 
+            if (!mp.containsKey(ch))
                 mp.put(ch, 1);
-            else 
+            else
                 mp.put(ch, mp.get(ch) + 1);
         }
 
         for (int i = 0; i < t.length(); i++) {
             char ch = t.charAt(i);
-            if (!mp.containsKey(ch) || mp.get(ch) == 0) 
+
+            if (!mp.containsKey(ch))
                 return false;
-            mp.put(ch, mp.get(ch) - 1);
+
+            int freq = mp.get(ch) - 1;
+
+            if (freq == 0)
+                mp.remove(ch);
+            else
+                mp.put(ch, freq);
         }
 
-        return true;
+        return mp.isEmpty();
     }
 }
