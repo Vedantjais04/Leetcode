@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vedantjais04/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vedantjais04/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantjais04/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Vedantjais04/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vedantjais04/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Vedantjais04/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Vedantjais04/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Vedantjais04/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vedantjais04/Leetcode/tree/master/0242-valid-anagram) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Vedantjais04/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Vedantjais04/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Vedantjais04/Leetcode/tree/master/0344-reverse-string) |
