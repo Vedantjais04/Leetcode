@@ -15,8 +15,6 @@ class Solution {
             }
             
         }
-        Arrays.sort(nums, 0, left);
-        Arrays.sort(nums, left , n);
         return nums;
     }
 }
