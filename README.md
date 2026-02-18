@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Vedantjais04/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Vedantjais04/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vedantjais04/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Vedantjais04/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Backtracking
 |  |
 | ------- |
