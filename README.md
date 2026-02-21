@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Vedantjais04/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vedantjais04/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vedantjais04/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vedantjais04/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Vedantjais04/Leetcode/tree/master/0169-majority-element) |
 ## Tree
