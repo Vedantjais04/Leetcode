@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Vedantjais04/Leetcode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Vedantjais04/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Vedantjais04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0705-design-hashset](https://github.com/Vedantjais04/Leetcode/tree/master/0705-design-hashset) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Vedantjais04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vedantjais04/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Vedantjais04/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vedantjais04/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Vedantjais04/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vedantjais04/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Vedantjais04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vedantjais04/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Vedantjais04/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Vedantjais04/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Vedantjais04/Leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Vedantjais04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Vedantjais04/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vedantjais04/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Vedantjais04/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
