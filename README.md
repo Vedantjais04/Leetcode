@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vedantjais04/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vedantjais04/Leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vedantjais04/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Vedantjais04/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedantjais04/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Vedantjais04/Leetcode/tree/master/0189-rotate-array) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Vedantjais04/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Vedantjais04/Leetcode/tree/master/0705-design-hashset) |
 ## Design
