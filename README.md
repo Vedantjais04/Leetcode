@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Vedantjais04/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vedantjais04/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Vedantjais04/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vedantjais04/Leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vedantjais04/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantjais04/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Vedantjais04/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Vedantjais04/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Vedantjais04/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Vedantjais04/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Vedantjais04/Leetcode/tree/master/0242-valid-anagram) |
