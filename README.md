@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Vedantjais04/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vedantjais04/Leetcode/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/Vedantjais04/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Vedantjais04/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Vedantjais04/Leetcode/tree/master/0055-jump-game) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Vedantjais04/Leetcode/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/Vedantjais04/Leetcode/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/Vedantjais04/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
