@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vedantjais04/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Vedantjais04/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2424-longest-uploaded-prefix](https://github.com/Vedantjais04/Leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Vedantjais04/Leetcode/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/Vedantjais04/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vedantjais04/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2424-longest-uploaded-prefix](https://github.com/Vedantjais04/Leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,10 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Vedantjais04/Leetcode/tree/master/0264-ugly-number-ii) |
+| [2424-longest-uploaded-prefix](https://github.com/Vedantjais04/Leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vedantjais04/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2424-longest-uploaded-prefix](https://github.com/Vedantjais04/Leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Vedantjais04/Leetcode/tree/master/0705-design-hashset) |
+| [2424-longest-uploaded-prefix](https://github.com/Vedantjais04/Leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Hash Function
 |  |
 | ------- |
@@ -267,4 +272,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vedantjais04/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/Vedantjais04/Leetcode/tree/master/2424-longest-uploaded-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/Vedantjais04/Leetcode/tree/master/2424-longest-uploaded-prefix) |
+## Ordered Set
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/Vedantjais04/Leetcode/tree/master/2424-longest-uploaded-prefix) |
 <!---LeetCode Topics End-->
