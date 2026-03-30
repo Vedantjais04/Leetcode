@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0561-array-partition](https://github.com/Vedantjais04/Leetcode/tree/master/0561-array-partition) |
+| [0565-array-nesting](https://github.com/Vedantjais04/Leetcode/tree/master/0565-array-nesting) |
 | [0705-design-hashset](https://github.com/Vedantjais04/Leetcode/tree/master/0705-design-hashset) |
 | [0867-transpose-matrix](https://github.com/Vedantjais04/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/Vedantjais04/Leetcode/tree/master/0896-monotonic-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Vedantjais04/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0565-array-nesting](https://github.com/Vedantjais04/Leetcode/tree/master/0565-array-nesting) |
 ## Recursion
 |  |
 | ------- |
