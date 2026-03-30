@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Vedantjais04/Leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Vedantjais04/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Vedantjais04/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0932-beautiful-array](https://github.com/Vedantjais04/Leetcode/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedantjais04/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vedantjais04/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vedantjais04/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -152,12 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Vedantjais04/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/Vedantjais04/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vedantjais04/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0932-beautiful-array](https://github.com/Vedantjais04/Leetcode/tree/master/0932-beautiful-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Vedantjais04/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Vedantjais04/Leetcode/tree/master/0169-majority-element) |
+| [0932-beautiful-array](https://github.com/Vedantjais04/Leetcode/tree/master/0932-beautiful-array) |
 ## Tree
 |  |
 | ------- |
