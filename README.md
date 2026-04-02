@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Vedantjais04/Leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1669-merge-in-between-linked-lists](https://github.com/Vedantjais04/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
