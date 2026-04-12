@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Vedantjais04/Leetcode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Vedantjais04/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Vedantjais04/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Vedantjais04/Leetcode/tree/master/0089-gray-code) |
