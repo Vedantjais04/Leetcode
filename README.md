@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Vedantjais04/Leetcode/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vedantjais04/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vedantjais04/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vedantjais04/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vedantjais04/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Vedantjais04/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/Vedantjais04/Leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Vedantjais04/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Rolling Hash
 |  |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vedantjais04/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
