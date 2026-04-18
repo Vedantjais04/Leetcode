@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Vedantjais04/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Vedantjais04/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vedantjais04/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Vedantjais04/Leetcode/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vedantjais04/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Vedantjais04/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2293-min-max-game](https://github.com/Vedantjais04/Leetcode/tree/master/2293-min-max-game) |
