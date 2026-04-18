@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Vedantjais04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Vedantjais04/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0561-array-partition](https://github.com/Vedantjais04/Leetcode/tree/master/0561-array-partition) |
 | [0565-array-nesting](https://github.com/Vedantjais04/Leetcode/tree/master/0565-array-nesting) |
 | [0705-design-hashset](https://github.com/Vedantjais04/Leetcode/tree/master/0705-design-hashset) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Vedantjais04/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vedantjais04/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Vedantjais04/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vedantjais04/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1539-kth-missing-positive-number](https://github.com/Vedantjais04/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2424-longest-uploaded-prefix](https://github.com/Vedantjais04/Leetcode/tree/master/2424-longest-uploaded-prefix) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Vedantjais04/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0724-find-pivot-index](https://github.com/Vedantjais04/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vedantjais04/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vedantjais04/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Vedantjais04/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/Vedantjais04/Leetcode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Vedantjais04/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Vedantjais04/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0932-beautiful-array](https://github.com/Vedantjais04/Leetcode/tree/master/0932-beautiful-array) |
 ## Divide and Conquer
 |  |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Vedantjais04/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [2424-longest-uploaded-prefix](https://github.com/Vedantjais04/Leetcode/tree/master/2424-longest-uploaded-prefix) |
 ## Merge Sort
 |  |
@@ -328,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Vedantjais04/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/Vedantjais04/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
