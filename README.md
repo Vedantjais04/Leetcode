@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Vedantjais04/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Vedantjais04/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Vedantjais04/Leetcode/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/Vedantjais04/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Vedantjais04/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Vedantjais04/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Vedantjais04/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/Vedantjais04/Leetcode/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Vedantjais04/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
