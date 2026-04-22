@@ -1,19 +1,25 @@
 class Solution {
-    public String intToRoman(int num) {
-        final int[] values={1000,900,500,400,100,90,50,40,10,9,5,4,1};
-        final String[] symbols={"M","CM","D","CD","C","XC","L","XL","X","IX","V","IV","I"};
-        StringBuilder sb = new StringBuilder();
+    public List<String> generateParenthesis(int n) {
+        List<String> res = new ArrayList<>();
 
-        for(int i=0;i<values.length;++i)
+        dfs(0,0,"",n,res);
+
+        return res;
+    }
+
+    private void dfs(int openP,int closeP,String s,int n, List<String> res) {
+        if (openP==closeP && openP + closeP ==n*2)
         {
-            if(num==0)
-                break;
-            while(num>=values[i])
-            {
-                num-=values[i];
-                sb.append(symbols[i]);
-            }
+            res.add(s);
+            return;
         }
-        return sb.toString();
+        if(openP<n)
+        {
+            dfs(openP + 1,closeP,s+ "(",n,res);
+        }
+        if(closeP < openP)
+        {
+            dfs(openP,closeP+1,s +")",n,res);
+        }
     }
 }
