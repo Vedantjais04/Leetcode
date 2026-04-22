@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Vedantjais04/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Vedantjais04/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vedantjais04/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vedantjais04/Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Vedantjais04/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Vedantjais04/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Vedantjais04/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Vedantjais04/Leetcode/tree/master/0089-gray-code) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Vedantjais04/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Vedantjais04/Leetcode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Vedantjais04/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
