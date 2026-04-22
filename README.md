@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vedantjais04/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Vedantjais04/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantjais04/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Vedantjais04/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vedantjais04/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Vedantjais04/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Vedantjais04/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Vedantjais04/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedantjais04/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vedantjais04/Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Vedantjais04/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Vedantjais04/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Vedantjais04/Leetcode/tree/master/0089-gray-code) |
