@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vedantjais04/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Vedantjais04/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Vedantjais04/Leetcode/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Vedantjais04/Leetcode/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedantjais04/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/Vedantjais04/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Vedantjais04/Leetcode/tree/master/0205-isomorphic-strings) |
