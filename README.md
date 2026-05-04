@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Vedantjais04/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Vedantjais04/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Vedantjais04/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/Vedantjais04/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Vedantjais04/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vedantjais04/Leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/Vedantjais04/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Vedantjais04/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vedantjais04/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Vedantjais04/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Vedantjais04/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Vedantjais04/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vedantjais04/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vedantjais04/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Vedantjais04/Leetcode/tree/master/0050-powx-n) |
 | [0089-gray-code](https://github.com/Vedantjais04/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Vedantjais04/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Vedantjais04/Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Vedantjais04/Leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/Vedantjais04/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Vedantjais04/Leetcode/tree/master/0263-ugly-number) |
