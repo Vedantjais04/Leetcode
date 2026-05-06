@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vedantjais04/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Vedantjais04/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Vedantjais04/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Vedantjais04/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vedantjais04/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/Vedantjais04/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Vedantjais04/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vedantjais04/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Vedantjais04/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Vedantjais04/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Vedantjais04/Leetcode/tree/master/0062-unique-paths) |
 | [0089-gray-code](https://github.com/Vedantjais04/Leetcode/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Vedantjais04/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Vedantjais04/Leetcode/tree/master/0202-happy-number) |
@@ -372,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Vedantjais04/Leetcode/tree/master/0223-rectangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vedantjais04/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
